@@ -1,0 +1,2 @@
+- frontend: react, tailwind css, next js
+- backend: php, python
